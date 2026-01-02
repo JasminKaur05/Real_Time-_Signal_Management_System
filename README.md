@@ -56,10 +56,15 @@ Repeat the cycle continuously
 
 _**⏱️ Signal Timing Logic**_
 Vehicle Count	Green Light Duration
+
 0 vehicles	5 seconds
+
 1 – 5 vehicles	10 seconds
+
 6 – 15 vehicles	20 seconds
+
 More than 15	30 seconds
 
 Yellow light: 5 seconds
+
 Red light: 10 seconds
